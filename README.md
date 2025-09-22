@@ -6,7 +6,7 @@
 Small repository with:
 - `CiscoPoc.py` — harmless PoC to check for CVE-2023-20048.
 - `CiscoRCE.py` — exploit that attempts a reverse shell via the vulnerable `form2ping.cgi`.
-- 
+
 ## **Description**  
 This script checks if a **Cisco RV Series router** is vulnerable to **CVE-2023-20048**, a command injection flaw leading to **RCE as root**.  
 
